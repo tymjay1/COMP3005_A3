@@ -16,3 +16,5 @@ Run:
 ```
 java -cp ".:lib/postgresql-42.7.8.jar" PostgreSQLJDBCConnection
 ```
+Demo video:
+https://youtu.be/ebBwZU1TpLE
